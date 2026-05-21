@@ -30,14 +30,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cZ-aJzZmASDhCzC0QcNe-8" value="2. 下发指令" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.32;rounded=0;" parent="1" edge="1">
+        <mxCell id="cZ-aJzZmASDhCzC0QcNe-8" value="2. 下发指令" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.32;entryX=0;entryY=0.33;rounded=0;" parent="1" edge="1">
           <mxGeometry x="0.0761" y="-70" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="375" y="370" />
+              <mxPoint x="400" y="350" />
               <mxPoint x="429" y="370" />
             </Array>
             <mxPoint x="350" y="372.68" as="sourcePoint" />
-            <mxPoint x="550" y="470" as="targetPoint" />
+            <mxPoint x="454" y="373.17" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>

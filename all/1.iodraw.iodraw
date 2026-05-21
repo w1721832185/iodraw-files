@@ -63,9 +63,6 @@
         <mxCell id="gYptYfVdxy6l5_ghkIB--5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
           <mxGeometry x="260" y="360" width="100" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="gYptYfVdxy6l5_ghkIB--6" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.lightbulb;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="600" y="460" width="40.9" height="55" as="geometry" />
-        </mxCell>
         <mxCell id="gYptYfVdxy6l5_ghkIB--7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" vertex="1" parent="1">
           <mxGeometry x="268" y="500" width="59" height="45" as="geometry" />
         </mxCell>
@@ -87,8 +84,14 @@
         <mxCell id="gYptYfVdxy6l5_ghkIB--17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0080F0;strokeWidth=1.5;" vertex="1" parent="gYptYfVdxy6l5_ghkIB--18">
           <mxGeometry x="7.5" y="72.94545454545455" width="45" height="7.272727272727272" as="geometry" />
         </mxCell>
-        <mxCell id="gYptYfVdxy6l5_ghkIB--19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.half_circle;strokeColor=#0080F0;strokeWidth=2;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="575.45" y="440" width="90" height="45" as="geometry" />
+        <mxCell id="gYptYfVdxy6l5_ghkIB--20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570.45" y="420" width="100" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="gYptYfVdxy6l5_ghkIB--6" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.lightbulb;direction=west;" vertex="1" parent="gYptYfVdxy6l5_ghkIB--20">
+          <mxGeometry x="29.549999999999955" y="40" width="40.9" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="gYptYfVdxy6l5_ghkIB--19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.half_circle;strokeColor=#0080F0;strokeWidth=2;direction=west;" vertex="1" parent="gYptYfVdxy6l5_ghkIB--20">
+          <mxGeometry width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

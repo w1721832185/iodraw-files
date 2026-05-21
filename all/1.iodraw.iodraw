@@ -69,14 +69,17 @@
         <mxCell id="gYptYfVdxy6l5_ghkIB--7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" vertex="1" parent="1">
           <mxGeometry x="260" y="320" width="59" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="gYptYfVdxy6l5_ghkIB--10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="463.25" y="359" width="71.5" height="74" as="geometry" />
+        <mxCell id="gYptYfVdxy6l5_ghkIB--11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="463.25" y="364" width="71.5" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="gYptYfVdxy6l5_ghkIB--8" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.fan_2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="392" width="58" height="18" as="geometry" />
+        <mxCell id="gYptYfVdxy6l5_ghkIB--10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="gYptYfVdxy6l5_ghkIB--11">
+          <mxGeometry width="71.5" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="gYptYfVdxy6l5_ghkIB--9" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.fan_2;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="495" y="367" width="8" height="58" as="geometry" />
+        <mxCell id="gYptYfVdxy6l5_ghkIB--8" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.fan_2;" vertex="1" parent="gYptYfVdxy6l5_ghkIB--11">
+          <mxGeometry x="6.75" y="28" width="58" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gYptYfVdxy6l5_ghkIB--9" value="" style="verticalLabelPosition=bottom;outlineConnect=0;align=center;dashed=0;html=1;verticalAlign=top;shape=mxgraph.pid.misc.fan_2;direction=south;" vertex="1" parent="gYptYfVdxy6l5_ghkIB--11">
+          <mxGeometry x="28.25" y="8" width="15" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

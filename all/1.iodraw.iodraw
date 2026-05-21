@@ -31,14 +31,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cZ-aJzZmASDhCzC0QcNe-8" value="2. 下发指令" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;rounded=0;exitDx=0;exitDy=0;" parent="1" source="gYptYfVdxy6l5_ghkIB--1" edge="1">
-          <mxGeometry x="-0.3988" y="-62" relative="1" as="geometry">
+          <mxGeometry x="-0.1852" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="360" y="300" />
               <mxPoint x="470" y="410" />
             </Array>
             <mxPoint x="350" y="372.68" as="sourcePoint" />
             <mxPoint x="480" y="480" as="targetPoint" />
-            <mxPoint x="-24" y="12" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cZ-aJzZmASDhCzC0QcNe-9" value="3. 上报传感器数据" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=1;entryY=0.81;rounded=0;" parent="1" source="cZ-aJzZmASDhCzC0QcNe-6" target="cZ-aJzZmASDhCzC0QcNe-5" edge="1">
@@ -104,6 +104,16 @@
         </mxCell>
         <mxCell id="gYptYfVdxy6l5_ghkIB--24" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="gYptYfVdxy6l5_ghkIB--23">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gYptYfVdxy6l5_ghkIB--26" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="390" as="sourcePoint" />
+            <mxPoint x="400" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="390" />
+              <mxPoint x="350" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

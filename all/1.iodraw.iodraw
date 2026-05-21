@@ -58,7 +58,7 @@
           <mxGeometry x="250" y="180" width="181" height="111.64" as="geometry" />
         </mxCell>
         <mxCell id="gYptYfVdxy6l5_ghkIB--2" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="120" width="200" height="400" as="geometry" />
+          <mxGeometry x="320" y="260" width="60" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

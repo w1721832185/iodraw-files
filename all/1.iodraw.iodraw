@@ -61,7 +61,7 @@
           <mxGeometry x="100" y="300" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gYptYfVdxy6l5_ghkIB--7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#0080F0;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" vertex="1" parent="1">
-          <mxGeometry x="550" y="547.5" width="59" height="45" as="geometry" />
+          <mxGeometry x="424" y="440" width="89" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="gYptYfVdxy6l5_ghkIB--18" value="" style="group;strokeWidth=1.5;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="370" y="530" width="60" height="80" as="geometry" />

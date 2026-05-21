@@ -58,7 +58,10 @@
           <mxGeometry x="250" y="180" width="181" height="111.64" as="geometry" />
         </mxCell>
         <mxCell id="gYptYfVdxy6l5_ghkIB--2" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="260" width="30" height="50" as="geometry" />
+          <mxGeometry x="150" y="450" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gYptYfVdxy6l5_ghkIB--3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_standalone;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="25" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="RIW5YcRmsfFvA_Gp_ULq">
-    <mxGraphModel dx="678" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="390" dy="253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
         </mxCell>
         <mxCell id="gYptYfVdxy6l5_ghkIB--28" value="下发指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gYptYfVdxy6l5_ghkIB--26">
           <mxGeometry x="-0.1001" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-10" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gYptYfVdxy6l5_ghkIB--27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.72;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0080F0;" edge="1" parent="1">
@@ -110,9 +110,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gYptYfVdxy6l5_ghkIB--29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gYptYfVdxy6l5_ghkIB--27">
+        <mxCell id="gYptYfVdxy6l5_ghkIB--29" value="上报传感器数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gYptYfVdxy6l5_ghkIB--27">
           <mxGeometry x="0.1568" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="15" y="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gYptYfVdxy6l5_ghkIB--30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.72;exitY=1.009;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0080F0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="342.32000000000005" y="318.6447599999999" as="sourcePoint" />
+            <mxPoint x="443" y="506" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="393" y="356" />
+              <mxPoint x="433" y="416" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gYptYfVdxy6l5_ghkIB--31" value="下发指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gYptYfVdxy6l5_ghkIB--30">
+          <mxGeometry x="-0.1001" y="2" relative="1" as="geometry">
+            <mxPoint x="-10" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

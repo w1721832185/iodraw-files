@@ -8,7 +8,7 @@
           <mxGeometry x="320" y="240" width="270" height="320" as="geometry" />
         </mxCell>
         <mxCell id="zE0WKUv_uAOB8TxF0yEU-1" value="" style="triangle;whiteSpace=wrap;html=1;direction=north;strokeColor=#0080F0;" vertex="1" parent="1">
-          <mxGeometry x="244.74" y="90" width="378.26" height="210" as="geometry" />
+          <mxGeometry x="261.75" y="120" width="378.26" height="180" as="geometry" />
         </mxCell>
         <mxCell id="TIi9AGDLP0ysId19wJ69-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0080F0;" parent="1" vertex="1">
           <mxGeometry x="330" y="370" width="250" height="180" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry x="425.5" y="260" width="54" height="34" as="geometry" />
         </mxCell>
         <mxCell id="TIi9AGDLP0ysId19wJ69-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#0080F0;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud;" parent="1" vertex="1">
-          <mxGeometry x="760" y="249.5" width="94" height="55" as="geometry" />
+          <mxGeometry x="790" y="249.5" width="94" height="55" as="geometry" />
         </mxCell>
         <mxCell id="TIi9AGDLP0ysId19wJ69-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" parent="1" vertex="1">
           <mxGeometry x="490" y="388.13" width="30" height="60" as="geometry" />

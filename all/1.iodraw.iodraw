@@ -110,7 +110,7 @@
           <mxGeometry x="425.5" y="250" width="54" height="34" as="geometry" />
         </mxCell>
         <mxCell id="TIi9AGDLP0ysId19wJ69-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#0080F0;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud;" vertex="1" parent="1">
-          <mxGeometry x="475" y="100" width="94" height="55" as="geometry" />
+          <mxGeometry x="730" y="80" width="94" height="55" as="geometry" />
         </mxCell>
         <mxCell id="TIi9AGDLP0ysId19wJ69-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
           <mxGeometry x="490" y="388.13" width="30" height="60" as="geometry" />

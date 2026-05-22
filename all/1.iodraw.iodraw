@@ -142,7 +142,7 @@
         <mxCell id="zE0WKUv_uAOB8TxF0yEU-5" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;strokeColor=#0080F0;direction=south;" vertex="1" parent="1">
           <mxGeometry x="833.29" y="314" width="30" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="zE0WKUv_uAOB8TxF0yEU-6" value="连接家庭路由器" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="zE0WKUv_uAOB8TxF0yEU-6" value="微信推送消息" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="801.29" y="352" width="92.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zE0WKUv_uAOB8TxF0yEU-7" value="智能家居" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">

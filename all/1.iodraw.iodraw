@@ -139,6 +139,9 @@
         <mxCell id="zE0WKUv_uAOB8TxF0yEU-4" value="互联网通讯" style="shape=doubleArrow;whiteSpace=wrap;html=1;strokeColor=#0080F0;direction=west;" vertex="1" parent="1">
           <mxGeometry x="498.75" y="264" width="280" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="zE0WKUv_uAOB8TxF0yEU-5" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;strokeColor=#0080F0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="822" y="314" width="30" height="64" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

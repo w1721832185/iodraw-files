@@ -136,7 +136,7 @@
         <mxCell id="zE0WKUv_uAOB8TxF0yEU-3" value="与本地服务器通信" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="395.63" y="229.5" width="113.75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zE0WKUv_uAOB8TxF0yEU-4" value="" style="shape=doubleArrow;whiteSpace=wrap;html=1;strokeColor=#0080F0;direction=west;" vertex="1" parent="1">
+        <mxCell id="zE0WKUv_uAOB8TxF0yEU-4" value="上传互联网" style="shape=doubleArrow;whiteSpace=wrap;html=1;strokeColor=#0080F0;direction=west;" vertex="1" parent="1">
           <mxGeometry x="498.75" y="270" width="280" height="30" as="geometry" />
         </mxCell>
       </root>

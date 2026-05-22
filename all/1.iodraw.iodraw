@@ -14,7 +14,7 @@
           <mxGeometry x="330" y="370" width="250" height="180" as="geometry" />
         </mxCell>
         <mxCell id="gYptYfVdxy6l5_ghkIB--4" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#0080F0;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.mobile;" parent="1" vertex="1">
-          <mxGeometry x="782" y="400" width="50" height="100" as="geometry" />
+          <mxGeometry x="812" y="422.5" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gYptYfVdxy6l5_ghkIB--7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#0080F0;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" parent="1" vertex="1">
           <mxGeometry x="360" y="418.13" width="53.33" height="40" as="geometry" />

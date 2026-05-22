@@ -133,7 +133,7 @@
         <mxCell id="zE0WKUv_uAOB8TxF0yEU-2" value="连接家庭路由器" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="406.25" y="322" width="92.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zE0WKUv_uAOB8TxF0yEU-3" value="连接家庭路由器" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="zE0WKUv_uAOB8TxF0yEU-3" value="与本地服务器通信" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="406.25" y="229.5" width="92.5" height="20" as="geometry" />
         </mxCell>
       </root>

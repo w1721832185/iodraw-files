@@ -299,9 +299,6 @@
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-101" target="WNvf2Z2HNV9Xm3PW--1m-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-101" target="WNvf2Z2HNV9Xm3PW--1m-160">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-101" value="二氧化碳浓度是否达标" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="870" width="160" height="70" as="geometry" />
         </mxCell>
@@ -312,7 +309,7 @@
           <mxGeometry x="46.25" y="878.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-106" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="1040" width="120" height="35" as="geometry" />
+          <mxGeometry x="113.75" y="1060" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-112" target="WNvf2Z2HNV9Xm3PW--1m-103">
           <mxGeometry relative="1" as="geometry" />
@@ -324,7 +321,7 @@
           <mxGeometry x="-70" y="885" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-115" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="925" width="60" height="30" as="geometry" />
+          <mxGeometry x="-80" y="1010" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-118" target="WNvf2Z2HNV9Xm3PW--1m-120">
           <mxGeometry relative="1" as="geometry" />
@@ -429,7 +426,7 @@
           <mxGeometry x="1770" y="885" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-160" value="控制舵机打开窗户" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="970" width="120" height="40" as="geometry" />
+          <mxGeometry x="113.75" y="1010" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-163" target="WNvf2Z2HNV9Xm3PW--1m-165">
           <mxGeometry relative="1" as="geometry" />

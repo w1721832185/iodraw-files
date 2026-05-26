@@ -658,7 +658,7 @@
           <mxGeometry x="2540" y="798.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-270" value="控制继电器打开油烟机" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-322.5" y="821.25" width="120" height="40" as="geometry" />
+          <mxGeometry x="-333.75" y="821.25" width="142.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -145,9 +145,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-36">
+        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770" y="260" as="targetPoint" />
+            <mxPoint x="790" y="270" as="targetPoint" />
+            <mxPoint x="730" y="470" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="710" y="470" />
+              <mxPoint x="710" y="270" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-36" value="是否到达设定湿度" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

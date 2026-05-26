@@ -212,11 +212,6 @@
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-58" value="检测到有人" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1200" y="200" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-61" target="WNvf2Z2HNV9Xm3PW--1m-70">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1260" y="397.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-61" target="WNvf2Z2HNV9Xm3PW--1m-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -251,6 +246,9 @@
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-74" value="0.5s延时等待" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1200" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-82" value="跳转至开灯程序" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1340" y="410" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

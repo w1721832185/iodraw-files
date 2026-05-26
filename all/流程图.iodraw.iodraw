@@ -253,11 +253,14 @@
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-74" value="0.5s延时等待" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1200" y="240" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-85" target="WNvf2Z2HNV9Xm3PW--1m-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-85" value="灯光是否亮起" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1200" y="395" width="120" height="60" as="geometry" />
+          <mxGeometry x="1200" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-87" value="跳转至开灯程序" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1200" y="470" width="120" height="40" as="geometry" />
+          <mxGeometry x="1200" y="480" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

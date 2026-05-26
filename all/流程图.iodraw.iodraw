@@ -520,62 +520,62 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-228" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-522.5" y="287.5" width="120" height="30" as="geometry" />
+          <mxGeometry x="1259.5" y="-290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-230" target="WNvf2Z2HNV9Xm3PW--1m-232">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-230" value="初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-522.5" y="381.55999999999995" width="120" height="30" as="geometry" />
+          <mxGeometry x="1259.5" y="-195.94000000000005" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-232" target="WNvf2Z2HNV9Xm3PW--1m-241">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-232" value="检测到燃气&lt;span style=&quot;background-color: initial;&quot;&gt;浓度超过阈值&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-550" y="458.13" width="175" height="37.5" as="geometry" />
+          <mxGeometry x="1232" y="-119.37" width="175" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-235" target="WNvf2Z2HNV9Xm3PW--1m-244">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-257.5" y="459.38" as="targetPoint" />
-            <mxPoint x="-177.5" y="513.75" as="sourcePoint" />
+            <mxPoint x="1524.5" y="-118.12" as="targetPoint" />
+            <mxPoint x="1604.5" y="-63.75" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-127.5" y="513.75" />
-              <mxPoint x="-127.5" y="459.75" />
+              <mxPoint x="1654.5" y="-63.75" />
+              <mxPoint x="1654.5" y="-117.75" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-235" value="燃气浓度是否达标" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-337.5" y="478.75" width="160" height="70" as="geometry" />
+          <mxGeometry x="1444.5" y="-98.75" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-237" target="WNvf2Z2HNV9Xm3PW--1m-270">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-237" value="控制舵机打开窗户" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-317.5" y="330.63" width="120" height="40" as="geometry" />
+          <mxGeometry x="1464.5" y="-246.87" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-238" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-187.5" y="487.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="1594.5" y="-90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-239" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-317.5" y="627.5" width="120" height="35" as="geometry" />
+          <mxGeometry x="1464.5" y="50" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-241" target="WNvf2Z2HNV9Xm3PW--1m-237">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-241" value="发出危险提示信号" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-522.5" y="568.75" width="120" height="40" as="geometry" />
+          <mxGeometry x="1259.5" y="-8.75" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-242" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-267.5" y="538.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="1514.5" y="-38.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-244" target="WNvf2Z2HNV9Xm3PW--1m-239">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-244" value="发出浓度下降提示信号" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-333.75" y="568.75" width="152.5" height="40" as="geometry" />
+          <mxGeometry x="1448.25" y="-8.75" width="152.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-246" target="WNvf2Z2HNV9Xm3PW--1m-248">
           <mxGeometry relative="1" as="geometry" />
@@ -662,11 +662,11 @@
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-270">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-257.42424242424227" y="477.5" as="targetPoint" />
+            <mxPoint x="1524.5757575757577" y="-100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-270" value="控制继电器打开油烟机" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-328.75" y="396.25" width="142.5" height="40" as="geometry" />
+          <mxGeometry x="1453.25" y="-181.25" width="142.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

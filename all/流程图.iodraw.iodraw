@@ -88,6 +88,9 @@
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-3" value="初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="120" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-5" target="WNvf2Z2HNV9Xm3PW--1m-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-5" value="湿度低于设定值" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="160" width="120" height="30" as="geometry" />
         </mxCell>
@@ -168,6 +171,9 @@
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-40" value="关闭加湿器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="980" y="335" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-46" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="245" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

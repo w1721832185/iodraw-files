@@ -418,7 +418,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-171" value="控制舵机关闭窗户" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1246.24" y="1426.25" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1246.24" y="1436.25" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-172" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1386.25" y="1493.75" width="60" height="30" as="geometry" />
@@ -426,14 +426,14 @@
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-173" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1426.26" y="1588.75" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WUPW_Ww-mOlZ_PMoaWAj-0" edge="1">
+        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WUPW_Ww-mOlZ_PMoaWAj-0" target="WNvf2Z2HNV9Xm3PW--1m-171" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1302.49" y="1455" as="sourcePoint" />
             <mxPoint x="-1246.24" y="1455" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-1280" y="1456" />
-              <mxPoint x="-1280" y="1460" />
-              <mxPoint x="-1246" y="1460" />
+              <mxPoint x="-1280" y="1455" />
+              <mxPoint x="-1246" y="1455" />
             </Array>
           </mxGeometry>
         </mxCell>

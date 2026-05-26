@@ -67,7 +67,7 @@
           <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pB85zY6-9wYOOhezhrw0-10" value="灯光缓亮到最亮" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="240" width="120" height="50" as="geometry" />
+          <mxGeometry x="330" y="330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pB85zY6-9wYOOhezhrw0-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pB85zY6-9wYOOhezhrw0-12" target="pB85zY6-9wYOOhezhrw0-14">
           <mxGeometry relative="1" as="geometry" />

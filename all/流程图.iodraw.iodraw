@@ -335,6 +335,9 @@
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-122" value="检测到门被打开" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="730" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-124" value="初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="960" y="700" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

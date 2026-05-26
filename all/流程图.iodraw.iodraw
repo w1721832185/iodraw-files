@@ -550,6 +550,9 @@
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-235" value="燃气浓度是否达标" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-342.5" y="911.25" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-271" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-237" target="WNvf2Z2HNV9Xm3PW--1m-270">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-237" value="控制舵机打开窗户" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-322.5" y="763.13" width="120" height="40" as="geometry" />
         </mxCell>
@@ -658,7 +661,7 @@
           <mxGeometry x="2540" y="798.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-270" value="控制继电器打开油烟机" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-333.75" y="821.25" width="142.5" height="40" as="geometry" />
+          <mxGeometry x="-333.75" y="828.75" width="142.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

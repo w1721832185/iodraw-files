@@ -111,8 +111,10 @@
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-8" value="水位开关是否触发" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-9" target="WNvf2Z2HNV9Xm3PW--1m-27">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-9" value="开启蜂鸣器提示用户" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="430" width="120" height="40" as="geometry" />
@@ -146,14 +148,6 @@
             <mxPoint x="840" y="320" as="sourcePoint" />
             <mxPoint x="890" y="270" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-27" value="水位开关是否触发" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="730" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

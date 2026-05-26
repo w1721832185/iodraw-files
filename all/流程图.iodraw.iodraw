@@ -473,7 +473,7 @@
           <mxGeometry x="746.25" y="773.75" width="127.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-176" value="发出注意天气状况提示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="753.75" y="850" width="136.25" height="40" as="geometry" />
+          <mxGeometry x="741.88" y="865" width="136.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-177" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="910" width="60" height="30" as="geometry" />

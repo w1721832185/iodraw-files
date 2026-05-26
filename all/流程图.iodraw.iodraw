@@ -671,6 +671,9 @@
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-270" value="控制继电器打开油烟机" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1438.75" y="-441.25" width="142.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-0" value="窗是否为开启状态" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1590" y="1418.75" width="120" height="75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

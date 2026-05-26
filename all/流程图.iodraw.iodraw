@@ -452,13 +452,12 @@
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-167" value="检测到极端天气" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="736.25" y="687.5" width="147.5" height="33.75" as="geometry" />
         </mxCell>
-        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-171">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="852.54" as="targetPoint" />
-            <mxPoint x="970" y="828.79" as="sourcePoint" />
+            <mxPoint x="810" y="878.75" as="targetPoint" />
+            <mxPoint x="970" y="855" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="990" y="828.54" />
-              <mxPoint x="990" y="852.54" />
+              <mxPoint x="990" y="879" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -481,10 +480,10 @@
           <mxGeometry x="746.25" y="773.75" width="127.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-176" value="发出注意天气状况提示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="741.87" y="885" width="136.25" height="40" as="geometry" />
+          <mxGeometry x="741.88" y="900" width="136.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-177" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="930" y="910" width="60" height="30" as="geometry" />
+          <mxGeometry x="860" y="821.25" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

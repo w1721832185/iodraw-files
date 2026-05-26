@@ -144,6 +144,9 @@
             <mxPoint x="890" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-27" value="水位开关是否触发" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="740" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

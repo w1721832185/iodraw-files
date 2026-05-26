@@ -547,10 +547,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-211">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2067.5" y="307.5" as="targetPoint" />
-            <mxPoint x="1990" y="362.5" as="sourcePoint" />
+            <mxPoint x="2090" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-211" value="亮度是否为曝光" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

@@ -166,7 +166,7 @@
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-36" value="是否到达设定湿度" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-40" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-40" value="关闭加湿器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

@@ -421,10 +421,10 @@
           <mxGeometry x="-1246.24" y="1426.25" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-172" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1386.24" y="1473.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1386.25" y="1493.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-173" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1426.25" y="1568.75" width="120" height="35" as="geometry" />
+          <mxGeometry x="-1426.26" y="1588.75" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WNvf2Z2HNV9Xm3PW--1m-171" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -433,14 +433,14 @@
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WNvf2Z2HNV9Xm3PW--1m-176" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1366.2400000000002" y="1473.75" as="sourcePoint" />
+            <mxPoint x="-1366.2500000000002" y="1493.75" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-176" target="WNvf2Z2HNV9Xm3PW--1m-173" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-176" value="发出注意天气状况提示" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1434.37" y="1518.75" width="136.25" height="40" as="geometry" />
+          <mxGeometry x="-1434.3799999999999" y="1538.75" width="136.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-177" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1306.24" y="1418.75" width="60" height="30" as="geometry" />
@@ -672,7 +672,7 @@
           <mxGeometry x="1438.75" y="-441.25" width="142.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-0" value="窗是否为开启状态" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1590" y="1418.75" width="120" height="75" as="geometry" />
+          <mxGeometry x="-1426.24" y="1418.75" width="120" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

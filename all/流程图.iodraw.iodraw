@@ -294,7 +294,7 @@
           <mxGeometry x="82.5" y="701.25" width="175" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-101" value="二氧化碳浓度是否超标" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="940" width="160" height="70" as="geometry" />
+          <mxGeometry x="90" y="870" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-103" value="跳转至开灯程序" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="700" width="120" height="40" as="geometry" />

@@ -301,11 +301,11 @@
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180.02" y="875.23" as="targetPoint" />
-            <mxPoint x="250" y="929.73" as="sourcePoint" />
+            <mxPoint x="180" y="877.64" as="targetPoint" />
+            <mxPoint x="250" y="932.37" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="340" y="929.73" />
-              <mxPoint x="340" y="874.73" />
+              <mxPoint x="340" y="932.37" />
+              <mxPoint x="340" y="877.37" />
             </Array>
           </mxGeometry>
         </mxCell>

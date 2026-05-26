@@ -680,7 +680,7 @@
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-260" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2490" y="1126.25" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-261" value="检测当前室内亮度" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-261" value="当前室内亮度是否为暗" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2475" y="723.75" width="150" height="58.75" as="geometry" />
         </mxCell>
       </root>

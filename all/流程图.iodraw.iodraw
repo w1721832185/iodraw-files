@@ -510,7 +510,10 @@
         </mxCell>
         <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-213">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1399.9999999999998" y="180" as="targetPoint" />
+            <mxPoint x="-1460" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1290" y="180" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-213" value="延迟2分钟" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">

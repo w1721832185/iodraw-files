@@ -466,12 +466,12 @@
         </mxCell>
         <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1590" y="290" as="targetPoint" />
+            <mxPoint x="-1650" y="290" as="targetPoint" />
             <mxPoint x="-1391" y="459.9999999999998" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-1391" y="461" />
               <mxPoint x="-1260" y="461" />
-              <mxPoint x="-1260" y="280" />
+              <mxPoint x="-1260" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>

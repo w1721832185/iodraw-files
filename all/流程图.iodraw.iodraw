@@ -684,7 +684,7 @@
         <mxCell id="6zS2dLzZcoinGF8uRVje-36" value="初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1240" y="890" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6zS2dLzZcoinGF8uRVje-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6zS2dLzZcoinGF8uRVje-38" target="6zS2dLzZcoinGF8uRVje-41">
+        <mxCell id="6zS2dLzZcoinGF8uRVje-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6zS2dLzZcoinGF8uRVje-38" target="6zS2dLzZcoinGF8uRVje-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-38" value="检测到B项变为低电平" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -709,7 +709,7 @@
           <mxGeometry x="-1360" y="1260" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-47" value="亮度是否为曝光" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1256.25" y="1060" width="160" height="60" as="geometry" />
+          <mxGeometry x="-1260" y="1060" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-49" value="为顺时针转动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1410" y="1002" width="120" height="30" as="geometry" />

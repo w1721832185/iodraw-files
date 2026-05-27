@@ -460,7 +460,10 @@
           <mxGeometry x="-1713" y="230" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-200" value="时间是否为中午" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1740" y="360" width="160" height="60" as="geometry" />
+          <mxGeometry x="-1733" y="327.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-202" target="WNvf2Z2HNV9Xm3PW--1m-200">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-202" value="控制电机拉上窗帘" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1713" y="272.5" width="120" height="40" as="geometry" />

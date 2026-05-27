@@ -709,7 +709,7 @@
           <mxGeometry x="-1360" y="1260" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-47" value="亮度是否为曝光" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1260" y="1060" width="160" height="60" as="geometry" />
+          <mxGeometry x="-1260" y="1100" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-49" value="为顺时针转动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1410" y="1002" width="120" height="30" as="geometry" />

@@ -753,15 +753,6 @@
         <mxCell id="6zS2dLzZcoinGF8uRVje-62" value="色温变暖" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1590" y="1055" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6zS2dLzZcoinGF8uRVje-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6zS2dLzZcoinGF8uRVje-63">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1010" y="1210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-830" y="1170" />
-              <mxPoint x="-1010" y="1170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-63" value="色温变冷" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-890" y="1055" width="120" height="30" as="geometry" />
         </mxCell>
@@ -778,6 +769,12 @@
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-75" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1070" y="1090" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6zS2dLzZcoinGF8uRVje-78" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-910" y="1170" as="sourcePoint" />
+            <mxPoint x="-860" y="1120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -466,12 +466,12 @@
         </mxCell>
         <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1490" y="280" as="targetPoint" />
+            <mxPoint x="-1590" y="290" as="targetPoint" />
             <mxPoint x="-1391" y="459.9999999999998" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-1391" y="461" />
-              <mxPoint x="-1489" y="461" />
-              <mxPoint x="-1489" y="280" />
+              <mxPoint x="-1260" y="461" />
+              <mxPoint x="-1260" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -491,13 +491,13 @@
           <mxGeometry x="-1713" y="630" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-211" value="亮度是否为曝光" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1733" y="350" width="160" height="60" as="geometry" />
+          <mxGeometry x="-1733" y="360" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-213" target="WNvf2Z2HNV9Xm3PW--1m-211">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-213" value="延迟5分钟" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1713" y="300" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1713" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-214" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1960" y="570" width="60" height="30" as="geometry" />

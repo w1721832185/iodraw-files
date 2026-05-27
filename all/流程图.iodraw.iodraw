@@ -736,7 +736,7 @@
         <mxCell id="6zS2dLzZcoinGF8uRVje-53" value="控制电机拉上窗帘" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-856.24" y="1180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6zS2dLzZcoinGF8uRVje-54" value="延迟5分钟" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="6zS2dLzZcoinGF8uRVje-54" value="为逆时针转动" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1070" y="1002" width="120" height="30" as="geometry" />
         </mxCell>
       </root>

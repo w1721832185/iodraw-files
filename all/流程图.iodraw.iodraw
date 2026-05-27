@@ -468,16 +468,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-200" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1550" y="323" as="targetPoint" />
-            <mxPoint x="-1160" y="523" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-1230" y="503" />
-              <mxPoint x="-1230" y="323" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-200" value="时间是否为中午" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1420" y="473" width="160" height="60" as="geometry" />
         </mxCell>

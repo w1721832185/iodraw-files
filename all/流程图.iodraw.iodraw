@@ -459,6 +459,11 @@
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-197" value="检测到曝光亮度" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1713" y="230" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-200">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1653.3076923076924" y="399.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-200" value="时间是否为中午" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1733" y="275" width="160" height="60" as="geometry" />
         </mxCell>

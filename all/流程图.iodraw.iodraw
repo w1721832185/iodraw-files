@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3496" dy="1291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3633" dy="1379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -675,13 +675,12 @@
         <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-0" value="窗是否为开启状态" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1246.24" y="-375.62" width="120" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WUPW_Ww-mOlZ_PMoaWAj-8">
+        <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1630" y="510" as="targetPoint" />
+            <mxPoint x="-1654" y="510" as="targetPoint" />
+            <mxPoint x="-1814" y="490" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1820" y="510" />
-              <mxPoint x="-1689" y="510" />
-              <mxPoint x="-1689" y="520" />
+              <mxPoint x="-1814" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>

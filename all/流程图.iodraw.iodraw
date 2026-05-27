@@ -466,8 +466,8 @@
             <Array as="points">
               <mxPoint x="-1653" y="420" />
               <mxPoint x="-1566" y="420" />
-              <mxPoint x="-1566" y="80" />
-              <mxPoint x="-1460" y="80" />
+              <mxPoint x="-1566" y="190" />
+              <mxPoint x="-1460" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -660,7 +660,7 @@
           <mxGeometry x="-1246.24" y="-375.62" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-8" value="控制电机拉上窗帘" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1520" y="312.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1520" y="332.5" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

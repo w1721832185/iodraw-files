@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3525" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4088" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -744,16 +744,6 @@
         <mxCell id="6zS2dLzZcoinGF8uRVje-58" value="D项是否为低电平" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1090" y="1040" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6zS2dLzZcoinGF8uRVje-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6zS2dLzZcoinGF8uRVje-61">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1180" y="1230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1350" y="1210" />
-              <mxPoint x="-1179" y="1210" />
-              <mxPoint x="-1179" y="1230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-61" value="亮度增加" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1410" y="1120" width="120" height="30" as="geometry" />
         </mxCell>
@@ -779,14 +769,6 @@
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-63" value="色温变冷" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-890" y="1055" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6zS2dLzZcoinGF8uRVje-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6zS2dLzZcoinGF8uRVje-64" target="6zS2dLzZcoinGF8uRVje-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1010" y="1210" />
-              <mxPoint x="-1180" y="1210" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-64" value="亮度减小" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1070" y="1120" width="120" height="30" as="geometry" />

@@ -660,6 +660,9 @@
         <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-8" value="控制电机拉开窗帘" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1530" y="510" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-30" value="亮度是否为曝光" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1733" y="470" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

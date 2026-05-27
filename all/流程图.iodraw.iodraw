@@ -465,8 +465,8 @@
             <mxPoint x="-1680" y="400" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-1653" y="420" />
-              <mxPoint x="-1566" y="420" />
-              <mxPoint x="-1566" y="190" />
+              <mxPoint x="-1560" y="420" />
+              <mxPoint x="-1560" y="190" />
               <mxPoint x="-1460" y="190" />
             </Array>
           </mxGeometry>
@@ -675,7 +675,7 @@
         <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WUPW_Ww-mOlZ_PMoaWAj-8" target="WNvf2Z2HNV9Xm3PW--1m-205">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-8" value="控制电机拉上窗帘" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-8" value="控制电机拉开窗帘" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1520" y="332.5" width="120" height="40" as="geometry" />
         </mxCell>
       </root>

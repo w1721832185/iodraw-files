@@ -703,7 +703,7 @@
           <mxGeometry x="-1470" y="1045" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-43" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1360" y="1100" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1350" y="1100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-44" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1240" y="1260" width="120" height="35" as="geometry" />
@@ -785,7 +785,7 @@
           <mxGeometry x="-950" y="1045" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-75" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1290" y="997" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1070" y="1100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -487,7 +487,7 @@
           <mxGeometry x="-1880" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-205" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1440" y="327.5" width="120" height="35" as="geometry" />
+          <mxGeometry x="-1510" y="392.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-211" value="亮度是否为曝光" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1540" y="156.25" width="160" height="60" as="geometry" />
@@ -660,7 +660,7 @@
           <mxGeometry x="-1246.24" y="-375.62" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-8" value="控制电机拉上窗帘" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1410" y="245" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1520" y="260" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

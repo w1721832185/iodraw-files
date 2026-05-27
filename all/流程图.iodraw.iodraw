@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2844" dy="1404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2656" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -459,7 +459,7 @@
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-197" value="检测到曝光亮度" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1713" y="230" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-200">
+        <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-200" target="WNvf2Z2HNV9Xm3PW--1m-211">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1459.5" y="141.25" as="targetPoint" />
             <mxPoint x="-1680" y="400" as="sourcePoint" />
@@ -467,7 +467,8 @@
               <mxPoint x="-1653" y="420" />
               <mxPoint x="-1566" y="420" />
               <mxPoint x="-1566" y="80" />
-              <mxPoint x="-1459" y="80" />
+              <mxPoint x="-1460" y="80" />
+              <mxPoint x="-1460" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>

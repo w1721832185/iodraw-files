@@ -681,7 +681,8 @@
             <mxPoint x="-1814" y="490" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-1820" y="490" />
-              <mxPoint x="-1820" y="510" />
+              <mxPoint x="-1820" y="520" />
+              <mxPoint x="-1654" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -696,6 +697,20 @@
         </mxCell>
         <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-30" value="亮度是否为曝光" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1733" y="440" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1654" y="520" as="targetPoint" />
+            <mxPoint x="-1814" y="500" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1820" y="500" />
+              <mxPoint x="-1820" y="530" />
+              <mxPoint x="-1654" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WUPW_Ww-mOlZ_PMoaWAj-38" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1713" y="545" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

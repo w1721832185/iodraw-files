@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3828" dy="1506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4348" dy="1842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -694,32 +694,32 @@
           <mxGeometry x="-1260" y="987" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-42" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1120" y="1067" width="60" height="30" as="geometry" />
+          <mxGeometry x="-736.24" y="1120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-43" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1027" y="1127" width="60" height="30" as="geometry" />
+          <mxGeometry x="-643.24" y="1180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-44" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1240" y="1207" width="120" height="35" as="geometry" />
+          <mxGeometry x="-1360" y="1260" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6zS2dLzZcoinGF8uRVje-47">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1177" y="1097.2857142857142" as="targetPoint" />
+            <mxPoint x="-793.24" y="1150.2857142857142" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6zS2dLzZcoinGF8uRVje-47">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1177" y="1187" as="targetPoint" />
+            <mxPoint x="-793.24" y="1240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1007" y="1187" />
+              <mxPoint x="-623.24" y="1240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-47" value="亮度是否为曝光" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1087" y="1067" width="160" height="60" as="geometry" />
+          <mxGeometry x="-703.24" y="1120" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-49" value="延迟5分钟" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1047" y="990" width="120" height="30" as="geometry" />
+          <mxGeometry x="-856.24" y="800" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-50" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1370" y="920" width="60" height="30" as="geometry" />
@@ -731,7 +731,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-53" value="控制电机拉上窗帘" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1240" y="1127" width="120" height="40" as="geometry" />
+          <mxGeometry x="-856.24" y="1180" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

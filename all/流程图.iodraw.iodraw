@@ -773,14 +773,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="R2j-Uzxgqcqt2P2Ip5n7-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R2j-Uzxgqcqt2P2Ip5n7-1" target="R2j-Uzxgqcqt2P2Ip5n7-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="R2j-Uzxgqcqt2P2Ip5n7-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R2j-Uzxgqcqt2P2Ip5n7-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="890" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="R2j-Uzxgqcqt2P2Ip5n7-1" value="人体是否存在" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="R2j-Uzxgqcqt2P2Ip5n7-1" value="人体是否消失" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310" y="860" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R2j-Uzxgqcqt2P2Ip5n7-2" value="跳转至开灯程序" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="870" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R2j-Uzxgqcqt2P2Ip5n7-3" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="910" width="60" height="30" as="geometry" />

@@ -215,12 +215,6 @@
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-61" target="WNvf2Z2HNV9Xm3PW--1m-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WNvf2Z2HNV9Xm3PW--1m-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-61" target="WNvf2Z2HNV9Xm3PW--1m-85" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="885" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-61" value="人体是否存在" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="310" y="760" width="120" height="60" as="geometry" />
         </mxCell>
@@ -231,10 +225,10 @@
           <mxGeometry x="360" y="810" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-69" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="360" y="900" width="60" height="30" as="geometry" />
+          <mxGeometry x="360" y="950" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-70" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="945" width="120" height="35" as="geometry" />
+          <mxGeometry x="310" y="995" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-72" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="410" y="790" width="60" height="30" as="geometry" />
@@ -252,22 +246,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-85" value="灯光是否亮起" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="930" as="targetPoint" />
-            <mxPoint x="530" y="884.5" as="sourcePoint" />
+            <mxPoint x="370" y="980" as="targetPoint" />
+            <mxPoint x="530" y="934.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="530" y="929.5" />
+              <mxPoint x="530" y="979.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-87" value="缓慢关闭灯光" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="470" y="860" width="120" height="40" as="geometry" />
+          <mxGeometry x="470" y="910" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-91" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="410" y="880" width="60" height="30" as="geometry" />
+          <mxGeometry x="410" y="930" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-94" target="WNvf2Z2HNV9Xm3PW--1m-96" edge="1">
           <mxGeometry relative="1" as="geometry" />

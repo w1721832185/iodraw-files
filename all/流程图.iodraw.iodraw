@@ -753,7 +753,7 @@
           <mxGeometry x="470" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R2j-Uzxgqcqt2P2Ip5n7-3" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="900" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="890" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R2j-Uzxgqcqt2P2Ip5n7-4" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="910" width="60" height="30" as="geometry" />

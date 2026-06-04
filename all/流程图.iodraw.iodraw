@@ -237,7 +237,7 @@
           <mxGeometry x="310" y="715" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-87" value="缓慢关闭灯光" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="470" y="955" width="120" height="40" as="geometry" />
+          <mxGeometry x="470" y="930" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WNvf2Z2HNV9Xm3PW--1m-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WNvf2Z2HNV9Xm3PW--1m-94" target="WNvf2Z2HNV9Xm3PW--1m-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -748,6 +748,9 @@
               <mxPoint x="-1530" y="1170" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R2j-Uzxgqcqt2P2Ip5n7-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R2j-Uzxgqcqt2P2Ip5n7-1" target="WNvf2Z2HNV9Xm3PW--1m-87">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R2j-Uzxgqcqt2P2Ip5n7-1" value="人体是否消失" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="840" width="120" height="60" as="geometry" />

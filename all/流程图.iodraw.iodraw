@@ -726,7 +726,7 @@
           <mxGeometry x="-1380" y="1127" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-62" value="色温变暖" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1580" y="1065" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1520" y="1065" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-63" value="色温变冷" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-890" y="1062" width="120" height="30" as="geometry" />
@@ -759,7 +759,7 @@
             <mxPoint x="-1530" y="1127" as="sourcePoint" />
             <mxPoint x="-1350" y="1177" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1530" y="1177" />
+              <mxPoint x="-1460" y="1180" />
             </Array>
           </mxGeometry>
         </mxCell>

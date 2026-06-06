@@ -678,7 +678,7 @@
           <mxGeometry x="-1470" y="1052" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-43" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1350" y="1097" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1300" y="1097" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-44" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1240" y="1197" width="120" height="35" as="geometry" />
@@ -690,7 +690,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-47" value="D项是否为低电平" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1430" y="1047" width="160" height="60" as="geometry" />
+          <mxGeometry x="-1400" y="1047" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="6zS2dLzZcoinGF8uRVje-49" target="6zS2dLzZcoinGF8uRVje-47" edge="1">
           <mxGeometry relative="1" as="geometry" />

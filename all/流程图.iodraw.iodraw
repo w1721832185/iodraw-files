@@ -696,7 +696,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-49" value="为顺时针转动" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1410" y="1002" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1380" y="1003.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6zS2dLzZcoinGF8uRVje-50" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1149.99" y="987" width="60" height="30" as="geometry" />

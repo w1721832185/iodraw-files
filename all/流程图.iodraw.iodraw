@@ -800,11 +800,17 @@
         <mxCell id="SmNXzql80FSFZgkHIoU7-0" value="定时触发MPPT中断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2109.37" y="-1150" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SmNXzql80FSFZgkHIoU7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SmNXzql80FSFZgkHIoU7-1" target="SmNXzql80FSFZgkHIoU7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SmNXzql80FSFZgkHIoU7-1" value="采集电压电流并计算当前功率" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2114.37" y="-1090" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SmNXzql80FSFZgkHIoU7-3" value="当前功率&amp;gt;上次功率？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2049.37" y="-1030" width="200" height="60" as="geometry" />
+          <mxGeometry x="-2109.37" y="-1030" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SmNXzql80FSFZgkHIoU7-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2180" y="-1000" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

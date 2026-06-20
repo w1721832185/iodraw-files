@@ -804,7 +804,7 @@
           <mxGeometry x="-2114.37" y="-1090" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SmNXzql80FSFZgkHIoU7-3" value="当前功率&amp;gt;上次功率？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2049.37" y="-1030" width="80" height="80" as="geometry" />
+          <mxGeometry x="-2049.37" y="-1030" width="200" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

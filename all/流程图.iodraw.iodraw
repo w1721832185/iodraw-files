@@ -807,7 +807,7 @@
           <mxGeometry x="-2114.37" y="-1090" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SmNXzql80FSFZgkHIoU7-3" value="当前功率&amp;gt;上次功率？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2109.37" y="-1030" width="160" height="60" as="geometry" />
+          <mxGeometry x="-2089.37" y="-1030" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SmNXzql80FSFZgkHIoU7-5" value="当前电压&amp;gt;上次电压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2190" y="-955" width="140" height="70" as="geometry" />

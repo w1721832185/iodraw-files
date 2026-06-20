@@ -806,6 +806,12 @@
         <mxCell id="SmNXzql80FSFZgkHIoU7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SmNXzql80FSFZgkHIoU7-3" target="SmNXzql80FSFZgkHIoU7-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SmNXzql80FSFZgkHIoU7-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="d360Uzn1zfCpawnwF1HF-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2009.3617021276596" y="-820" as="targetPoint" />
+            <mxPoint x="-2000" y="-920" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SmNXzql80FSFZgkHIoU7-3" value="当前功率&amp;gt;上次功率？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2089.37" y="-1030" width="160" height="70" as="geometry" />
         </mxCell>

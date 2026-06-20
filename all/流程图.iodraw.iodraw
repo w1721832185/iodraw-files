@@ -810,19 +810,19 @@
           <mxGeometry x="-2109.37" y="-1030" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SmNXzql80FSFZgkHIoU7-5" value="当前电压&amp;gt;上次电压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2227" y="-995" width="160" height="60" as="geometry" />
+          <mxGeometry x="-2190" y="-955" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SmNXzql80FSFZgkHIoU7-7" value="减小占空比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2187" y="-895.94" width="100" height="40" as="geometry" />
+          <mxGeometry x="-2170" y="-715.3100000000001" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SmNXzql80FSFZgkHIoU7-8" value="减小占空比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2030" y="-910" width="100" height="40" as="geometry" />
+          <mxGeometry x="-2013" y="-729.37" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SmNXzql80FSFZgkHIoU7-9" value="增大占空比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2167" y="-819.37" width="100" height="40" as="geometry" />
+          <mxGeometry x="-2150" y="-638.74" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SmNXzql80FSFZgkHIoU7-10" value="增大占空比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2004.37" y="-821.87" width="100" height="40" as="geometry" />
+          <mxGeometry x="-1987.37" y="-641.24" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

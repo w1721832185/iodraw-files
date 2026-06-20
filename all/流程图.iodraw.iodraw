@@ -812,7 +812,7 @@
         <mxCell id="SmNXzql80FSFZgkHIoU7-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2180" y="-1000" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SmNXzql80FSFZgkHIoU7-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SmNXzql80FSFZgkHIoU7-7" value="减小占空比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2187" y="-895.94" width="120" height="40" as="geometry" />
         </mxCell>
       </root>

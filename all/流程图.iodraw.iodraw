@@ -821,6 +821,9 @@
         <mxCell id="SmNXzql80FSFZgkHIoU7-9" value="增大占空比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2167" y="-819.37" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SmNXzql80FSFZgkHIoU7-10" value="增大占空比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2004.37" y="-821.87" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

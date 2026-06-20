@@ -809,7 +809,7 @@
         <mxCell id="SmNXzql80FSFZgkHIoU7-3" value="当前功率&amp;gt;上次功率？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2109.37" y="-1030" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SmNXzql80FSFZgkHIoU7-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SmNXzql80FSFZgkHIoU7-5" value="当前电压&amp;gt;上次电压" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-2180" y="-1000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SmNXzql80FSFZgkHIoU7-7" value="减小占空比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

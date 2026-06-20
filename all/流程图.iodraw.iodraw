@@ -850,10 +850,10 @@
         </mxCell>
         <mxCell id="SmNXzql80FSFZgkHIoU7-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2250" y="-730" as="sourcePoint" />
-            <mxPoint x="-2200" y="-780" as="targetPoint" />
+            <mxPoint x="-1820" y="-790.94" as="sourcePoint" />
+            <mxPoint x="-1770" y="-840.94" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2200" y="-730" />
+              <mxPoint x="-1770" y="-790.94" />
             </Array>
           </mxGeometry>
         </mxCell>

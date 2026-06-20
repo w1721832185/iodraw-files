@@ -890,10 +890,16 @@
           <mxGeometry x="-2190" y="-3745" width="20" height="15" as="geometry" />
         </mxCell>
         <mxCell id="SmNXzql80FSFZgkHIoU7-29" value="是" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2250" y="-3735" width="20" height="15" as="geometry" />
+          <mxGeometry x="-2280" y="-3710" width="20" height="15" as="geometry" />
         </mxCell>
         <mxCell id="SmNXzql80FSFZgkHIoU7-30" value="否" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2180" y="-3735" width="20" height="15" as="geometry" />
+          <mxGeometry x="-2210" y="-3710" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="SmNXzql80FSFZgkHIoU7-31" value="是" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2089" y="-3720" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="SmNXzql80FSFZgkHIoU7-32" value="否" style="text;strokeColor=none;fillColor=none;html=1;fontSize=10;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2019" y="-3720" width="20" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

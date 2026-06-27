@@ -8,10 +8,10 @@
           <mxGeometry x="320" y="210" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j8LCdjJMQCPuJx_WS_r2-2" value="硅料提纯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="210" width="80" height="30" as="geometry" />
+          <mxGeometry x="550" y="310" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j8LCdjJMQCPuJx_WS_r2-3" value="硅片生产" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="250" width="80" height="30" as="geometry" />
+          <mxGeometry x="550" y="350" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j8LCdjJMQCPuJx_WS_r2-4" value="组件封装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="210" width="80" height="30" as="geometry" />
@@ -30,12 +30,12 @@
         </mxCell>
         <mxCell id="j8LCdjJMQCPuJx_WS_r2-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="190" as="sourcePoint" />
-            <mxPoint x="280" y="190" as="targetPoint" />
+            <mxPoint x="284" y="295" as="sourcePoint" />
+            <mxPoint x="300" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="410" y="190" />
-              <mxPoint x="410" y="90" />
-              <mxPoint x="280" y="90" />
+              <mxPoint x="414" y="295" />
+              <mxPoint x="414" y="195" />
+              <mxPoint x="284" y="195" />
             </Array>
           </mxGeometry>
         </mxCell>

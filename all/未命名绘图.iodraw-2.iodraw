@@ -5,12 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="j8LCdjJMQCPuJx_WS_r2-1" value="电池生产" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="210" width="80" height="60" as="geometry" />
+          <mxGeometry x="320" y="210" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="j8LCdjJMQCPuJx_WS_r2-2" value="硅料提纯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="210" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8LCdjJMQCPuJx_WS_r2-3" value="硅料提纯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j8LCdjJMQCPuJx_WS_r2-3" value="硅片生产" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="250" width="80" height="30" as="geometry" />
         </mxCell>
       </root>

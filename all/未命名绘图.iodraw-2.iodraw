@@ -139,8 +139,11 @@
         <mxCell id="j8LCdjJMQCPuJx_WS_r2-28" value="资本、技术密集型" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="400" y="130" width="126" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="j8LCdjJMQCPuJx_WS_r2-29" value="资本、技术密集型" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="j8LCdjJMQCPuJx_WS_r2-29" value="剥离非核心业务" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="380" width="126" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j8LCdjJMQCPuJx_WS_r2-30" value="剥离非核心业务" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="390" width="126" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -151,7 +151,7 @@
         <mxCell id="j8LCdjJMQCPuJx_WS_r2-32" value="技术研发" style="text;strokeColor=none;fillColor=none;html=1;fontSize=12;fontStyle=0;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="420" y="340" width="126" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IqNoSOqtYY2uosCElsZy-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IqNoSOqtYY2uosCElsZy-1" value="开始电压采样" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="525" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="IqNoSOqtYY2uosCElsZy-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
